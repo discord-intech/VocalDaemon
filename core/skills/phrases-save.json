@@ -1,0 +1,49 @@
+{
+  "skillList" : [
+    {
+      "keyPhrases" : [
+        "qui es tu",
+        "tu es qui"
+      ],
+      "superWords" : [
+        "tu"
+      ],
+      "responses" : [
+        "Je suis Hermes, une IA codée par deux génies"
+      ]
+    },
+
+    {
+      "keyPhrases" : [
+        "bonjour",
+            "salut"
+      ],
+      "superWords" : [
+        "bonjour","salut"
+      ],
+      "responses" : [
+        "bonjour !",
+           "Salut !",
+           "Bien le bonjour, humain !"
+      ]
+    },
+
+    {
+      "keyPhrases" : [
+        "qui sont tes créateurs",
+        "qui sont tes createurs",
+        "qui est ton créateur",
+        "qui est ton createur"
+      ],
+      "superWords" : [
+        "créateur",
+        "créateurs"
+      ],
+      "responses" : [
+        "Mes créateurs sont Louis-Baptiste Trailin et Rémi Dulong"
+      ]
+    }
+
+
+  ]
+}

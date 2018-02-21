@@ -1,0 +1,884 @@
+{
+	"map":{
+		"x" : 2000,
+		"y" : 3000,
+		"scale" : 1,
+		"xstart" : 42,
+		"ystart" : 42,
+		"anglestart" : 0
+	},
+	"obstacles": [
+		{
+			"type" : "circle",
+			"xcenter" : 1605,
+			"ycenter" : 1380,
+			"x" : null,
+			"y" : null,
+			"angle" : null,
+			"rayon" : 60,
+			"height" : null,
+			"width" : null
+		},
+		{
+			"type" : "circle",
+			"xcenter" : 75,
+			"ycenter" : 270,
+			"x" : null,
+			"y" : null,
+			"angle" : null,
+			"rayon" : 375,
+			"height" : null,
+			"width" : null
+		},
+		{
+			"type" : "circle",
+			"xcenter" : 0,
+			"ycenter" : 405,
+			"x" : null,
+			"y" : null,
+			"angle" : null,
+			"rayon" : 375,
+			"height" : null,
+			"width" : null
+		},
+		{
+			"type" : "circle",
+			"xcenter" : 60,
+			"ycenter" : 375,
+			"x" : null,
+			"y" : null,
+			"angle" : null,
+			"rayon" : 375,
+			"height" : null,
+			"width" : null
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2092,
+			"ycenter" : 202,
+			"x" : 1905,
+			"y" : 15,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 375,
+			"width" : 375
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2512,
+			"ycenter" : 202,
+			"x" : 2325,
+			"y" : 15,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 375,
+			"width" : 375
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2287,
+			"ycenter" : 202,
+			"x" : 2100,
+			"y" : 15,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 375,
+			"width" : 375
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2377,
+			"ycenter" : 757,
+			"x" : 2190,
+			"y" : 570,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 375,
+			"width" : 375
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2377,
+			"ycenter" : 1087,
+			"x" : 2190,
+			"y" : 900,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 375,
+			"width" : 375
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1582,
+			"ycenter" : 757,
+			"x" : 1395,
+			"y" : 570,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 375,
+			"width" : 375
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1957,
+			"ycenter" : 757,
+			"x" : 1770,
+			"y" : 570,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 375,
+			"width" : 375
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2212,
+			"ycenter" : 757,
+			"x" : 2025,
+			"y" : 570,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 375,
+			"width" : 375
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2242,
+			"ycenter" : 1087,
+			"x" : 2055,
+			"y" : 900,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 375,
+			"width" : 375
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1582,
+			"ycenter" : 877,
+			"x" : 1395,
+			"y" : 690,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 375,
+			"width" : 375
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1897,
+			"ycenter" : 967,
+			"x" : 1710,
+			"y" : 780,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 375,
+			"width" : 375
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 697,
+			"ycenter" : 989,
+			"x" : 705,
+			"y" : 900,
+			"angle" : 0.08726646259971647,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 787,
+			"ycenter" : 1004,
+			"x" : 795,
+			"y" : 915,
+			"angle" : 0.08726646259971647,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1207,
+			"ycenter" : 1049,
+			"x" : 1215,
+			"y" : 960,
+			"angle" : 0.08726646259971647,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 530,
+			"ycenter" : 585,
+			"x" : 615,
+			"y" : 555,
+			"angle" : 1.2217304763960306,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 586,
+			"ycenter" : 735,
+			"x" : 675,
+			"y" : 720,
+			"angle" : 1.3962634015954636,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 423,
+			"ycenter" : 371,
+			"x" : 450,
+			"y" : 345,
+			"angle" : 0.7853981633974483,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 438,
+			"ycenter" : 386,
+			"x" : 465,
+			"y" : 360,
+			"angle" : 0.7853981633974483,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 273,
+			"ycenter" : 656,
+			"x" : 300,
+			"y" : 630,
+			"angle" : 0.7853981633974483,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 210,
+			"ycenter" : 1159,
+			"x" : 300,
+			"y" : 1170,
+			"angle" : 1.6929693744344996,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 270,
+			"ycenter" : 694,
+			"x" : 360,
+			"y" : 705,
+			"angle" : 1.6929693744344996,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 255,
+			"ycenter" : 799,
+			"x" : 345,
+			"y" : 810,
+			"angle" : 1.6929693744344996,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 274,
+			"ycenter" : 1439,
+			"x" : 285,
+			"y" : 1350,
+			"angle" : 0.12217304763960307,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 679,
+			"ycenter" : 1484,
+			"x" : 690,
+			"y" : 1395,
+			"angle" : 0.12217304763960307,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 409,
+			"ycenter" : 1454,
+			"x" : 420,
+			"y" : 1365,
+			"angle" : 0.12217304763960307,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 844,
+			"ycenter" : 1499,
+			"x" : 855,
+			"y" : 1410,
+			"angle" : 0.12217304763960307,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1024,
+			"ycenter" : 1514,
+			"x" : 1035,
+			"y" : 1425,
+			"angle" : 0.12217304763960307,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1204,
+			"ycenter" : 1544,
+			"x" : 1215,
+			"y" : 1455,
+			"angle" : 0.12217304763960307,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1369,
+			"ycenter" : 1559,
+			"x" : 1380,
+			"y" : 1470,
+			"angle" : 0.12217304763960307,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1549,
+			"ycenter" : 1574,
+			"x" : 1560,
+			"y" : 1485,
+			"angle" : 0.12217304763960307,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2089,
+			"ycenter" : 1649,
+			"x" : 2100,
+			"y" : 1560,
+			"angle" : 0.12217304763960307,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2509,
+			"ycenter" : 1694,
+			"x" : 2520,
+			"y" : 1605,
+			"angle" : 0.12217304763960307,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2209,
+			"ycenter" : 1664,
+			"x" : 2220,
+			"y" : 1575,
+			"angle" : 0.12217304763960307,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2655,
+			"ycenter" : 1444,
+			"x" : 2745,
+			"y" : 1455,
+			"angle" : 1.6929693744344996,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2670,
+			"ycenter" : 1249,
+			"x" : 2760,
+			"y" : 1260,
+			"angle" : 1.6929693744344996,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2685,
+			"ycenter" : 1129,
+			"x" : 2775,
+			"y" : 1140,
+			"angle" : 1.6929693744344996,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2575,
+			"ycenter" : 1147,
+			"x" : 2580,
+			"y" : 1110,
+			"angle" : 0.12217304763960307,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1755,
+			"ycenter" : 1417,
+			"x" : 1755,
+			"y" : 1380,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1800,
+			"ycenter" : 1417,
+			"x" : 1800,
+			"y" : 1380,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2010,
+			"ycenter" : 1492,
+			"x" : 2010,
+			"y" : 1455,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1755,
+			"ycenter" : 1627,
+			"x" : 1755,
+			"y" : 1590,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1800,
+			"ycenter" : 1627,
+			"x" : 1800,
+			"y" : 1590,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2010,
+			"ycenter" : 1627,
+			"x" : 2010,
+			"y" : 1590,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1717,
+			"ycenter" : 1395,
+			"x" : 1755,
+			"y" : 1395,
+			"angle" : 1.5707963267948966,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1717,
+			"ycenter" : 1470,
+			"x" : 1755,
+			"y" : 1470,
+			"angle" : 1.5707963267948966,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1717,
+			"ycenter" : 1515,
+			"x" : 1755,
+			"y" : 1515,
+			"angle" : 1.5707963267948966,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1837,
+			"ycenter" : 1395,
+			"x" : 1875,
+			"y" : 1395,
+			"angle" : 1.5707963267948966,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1837,
+			"ycenter" : 1485,
+			"x" : 1875,
+			"y" : 1485,
+			"angle" : 1.5707963267948966,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1837,
+			"ycenter" : 1515,
+			"x" : 1875,
+			"y" : 1515,
+			"angle" : 1.5707963267948966,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1972,
+			"ycenter" : 1470,
+			"x" : 2010,
+			"y" : 1470,
+			"angle" : 1.5707963267948966,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1972,
+			"ycenter" : 1515,
+			"x" : 2010,
+			"y" : 1515,
+			"angle" : 1.5707963267948966,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2047,
+			"ycenter" : 1470,
+			"x" : 2085,
+			"y" : 1470,
+			"angle" : 1.5707963267948966,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2047,
+			"ycenter" : 1515,
+			"x" : 2085,
+			"y" : 1515,
+			"angle" : 1.5707963267948966,
+			"rayon" : null,
+			"height" : 0,
+			"width" : 75
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 2475,
+			"ycenter" : 1260,
+			"x" : 2565,
+			"y" : 1215,
+			"angle" : 1.5707963267948966,
+			"rayon" : null,
+			"height" : 90,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 3240,
+			"ycenter" : 285,
+			"x" : 2865,
+			"y" : 195,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 750,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 3240,
+			"ycenter" : 1170,
+			"x" : 2865,
+			"y" : 1080,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 750,
+			"width" : 180
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1830,
+			"ycenter" : 2085,
+			"x" : 1740,
+			"y" : 1710,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 180,
+			"width" : 750
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 1260,
+			"ycenter" : 2085,
+			"x" : 1170,
+			"y" : 1710,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 180,
+			"width" : 750
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 615,
+			"ycenter" : 2085,
+			"x" : 525,
+			"y" : 1710,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 180,
+			"width" : 750
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 90,
+			"ycenter" : 2085,
+			"x" : 0,
+			"y" : 1710,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 180,
+			"width" : 750
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 90,
+			"ycenter" : 2010,
+			"x" : 0,
+			"y" : 1635,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 180,
+			"width" : 750
+		},
+		{
+			"type" : "rectangle",
+			"xcenter" : 622,
+			"ycenter" : 1597,
+			"x" : 435,
+			"y" : 1410,
+			"angle" : 0.0,
+			"rayon" : null,
+			"height" : 375,
+			"width" : 375
+		}
+	],
+	"label": [
+		{
+			"text" : "Batiment Dir",
+			"xtext" : 1515,
+			"ytext" : 120,
+			"x" : 1890,
+			"y" : 180,
+			"hiden" : false
+		},
+		{
+			"text" : "Batiment de Direction",
+			"xtext" : 1515,
+			"ytext" : 120,
+			"x" : 1890,
+			"y" : 180,
+			"hiden" : false
+		},
+		{
+			"text" : "Amphi 10",
+			"xtext" : 2160,
+			"ytext" : 1380,
+			"x" : 2100,
+			"y" : 1245,
+			"hiden" : false
+		},
+		{
+			"text" : "Amphi 11",
+			"xtext" : 1830,
+			"ytext" : 1245,
+			"x" : 1965,
+			"y" : 1125,
+			"hiden" : false
+		},
+		{
+			"text" : "Entrée du Forum",
+			"xtext" : 1005,
+			"ytext" : 840,
+			"x" : 1050,
+			"y" : 930,
+			"hiden" : false
+		},
+		{
+			"text" : "Entrée Forum Bis",
+			"xtext" : 600,
+			"ytext" : 315,
+			"x" : 540,
+			"y" : 480,
+			"hiden" : false
+		},
+		{
+			"text" : "Ancien Rits",
+			"xtext" : 495,
+			"ytext" : 180,
+			"x" : 180,
+			"y" : 375,
+			"hiden" : false
+		},
+		{
+			"text" : "Vers L'U3-Gymnase",
+			"xtext" : 45,
+			"ytext" : 1095,
+			"x" : 285,
+			"y" : 1050,
+			"hiden" : false
+		},
+		{
+			"text" : "Batiment A",
+			"xtext" : 495,
+			"ytext" : 1590,
+			"x" : 645,
+			"y" : 1380,
+			"hiden" : false
+		},
+		{
+			"text" : "Batiment C",
+			"xtext" : 495,
+			"ytext" : 1590,
+			"x" : 645,
+			"y" : 1380,
+			"hiden" : true
+		},
+		{
+			"text" : "Batiment E",
+			"xtext" : 495,
+			"ytext" : 1590,
+			"x" : 645,
+			"y" : 1380,
+			"hiden" : true
+		},
+		{
+			"text" : "Batiment B",
+			"xtext" : 2025,
+			"ytext" : 1680,
+			"x" : 1935,
+			"y" : 1425,
+			"hiden" : false
+		},
+		{
+			"text" : "Batiment D",
+			"xtext" : 2025,
+			"ytext" : 1680,
+			"x" : 1935,
+			"y" : 1425,
+			"hiden" : true
+		},
+		{
+			"text" : "SSP",
+			"xtext" : 1785,
+			"ytext" : 1530,
+			"x" : 1935,
+			"y" : 1440,
+			"hiden" : false
+		},
+		{
+			"text" : "Machines à café",
+			"xtext" : 2130,
+			"ytext" : 1515,
+			"x" : 2085,
+			"y" : 1455,
+			"hiden" : false
+		},
+		{
+			"text" : "Toilettes",
+			"xtext" : 2580,
+			"ytext" : 1335,
+			"x" : 2460,
+			"y" : 1350,
+			"hiden" : false
+		},
+		{
+			"text" : "Batiment G",
+			"xtext" : 2595,
+			"ytext" : 495,
+			"x" : 2700,
+			"y" : 1110,
+			"hiden" : false
+		},
+		{
+			"text" : "Médiathèque",
+			"xtext" : 2565,
+			"ytext" : 1710,
+			"x" : 2445,
+			"y" : 1575,
+			"hiden" : true
+		}
+	]
+}
